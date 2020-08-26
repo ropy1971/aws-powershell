@@ -2,6 +2,10 @@
 
 This repository is containing all PowerShell scripts for AWS.
 
+# Status 
+
+[PUBLIC]
+
 # Folders organization
 
 There are some folders to organize resources.
@@ -14,6 +18,8 @@ There are some folders to organize resources.
 - scripts.
 - Storage.
 - template.
+
+# Comments
 
 # License
 
