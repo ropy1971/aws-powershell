@@ -1,11 +1,1 @@
-<!--This template is used to write/edit documents/articles -->
-
-# SUMMARY
-
-# DETAILS
-
-# OS/ENVIRONMENT Support
-
-# USAGE
-
-# UPDATE
+This folder is containing all templates used to edit/write documents/articles/scripts.
